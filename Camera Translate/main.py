@@ -41,7 +41,7 @@ def main ():
 
 if __name__ == '__main__':
     print("Photo Translate\n github.com/Anasg4")
-    a = input("Type 'on' to open the camera\n >> ")
+    a = input("Type 'on' to open the camera, and press space to capture photo\n >> ")
     if a == "on":
         main()
     else:
